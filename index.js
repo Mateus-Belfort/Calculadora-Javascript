@@ -68,7 +68,7 @@ document.getElementById('themeSwitcher').addEventListener('click', function (){
       root.style.setProperty('--bg-color', '#212529')
     root.style.setProperty('--border-color', '#666')
     root.style.setProperty('--font-color', '#f1f5f9')
-    root.style.setProperty('--primary-color', '#624dff')
+    root.style.setProperty('--primary-color', '#5fa8fc')
     main.dataset.theme = 'dark'
     }
   })
